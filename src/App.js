@@ -24,11 +24,24 @@ const selectCritter = () => {
 
 function App() {
   const [critters, createCritter] = useState([])
+  const [moneySpent, addMoney] = useState(0)
   console.log(critters)
-  const handleClick = () => createCritter(prevState => [...prevState, selectCritter()])
+  const handleClick = () => {
+    addMoney(prevState => prevState += 7)
+    createCritter(prevState => [...prevState, selectCritter()])
+  }
+  const hasFullSet = () => {
+    const total = new Set(critters)
+    const result = [...total].reduce((a, b) => a + b, 0)
+    return (result === 45) ? 'YES' : 'NO'
+  }
   return (
-    <div className="App">
-      <div style={{ padding: '1rem', display: 'flex', flexWrap: 'wrap' }}>
+    <div style={{ padding: '1rem' }}>
+      <div>
+        <p>{`Money spent: $${moneySpent}`}</p>
+        <p>{`Full set? ${hasFullSet()}`}</p>
+      </div>
+      <div style={{ display: 'flex', flexWrap: 'wrap' }}>
         {critters.map(critter => {
           return ( <img style={{ height: '3rem' }} src={require(`./img/${names[critter]}.jpg`)}></img> )
         })}

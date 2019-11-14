@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/surprise-toy-reality/static/css/main.2680dfa7.chunk.css",
+    "main.js": "/surprise-toy-reality/static/js/main.103ddd4b.chunk.js",
+    "main.js.map": "/surprise-toy-reality/static/js/main.103ddd4b.chunk.js.map",
+    "runtime-main.js": "/surprise-toy-reality/static/js/runtime-main.a4eec85f.js",
+    "runtime-main.js.map": "/surprise-toy-reality/static/js/runtime-main.a4eec85f.js.map",
+    "static/js/2.2ee3a94b.chunk.js": "/surprise-toy-reality/static/js/2.2ee3a94b.chunk.js",
+    "static/js/2.2ee3a94b.chunk.js.map": "/surprise-toy-reality/static/js/2.2ee3a94b.chunk.js.map",
+    "index.html": "/surprise-toy-reality/index.html",
+    "precache-manifest.bb46ce9f6f43bd1c5be6b9d80edceb25.js": "/surprise-toy-reality/precache-manifest.bb46ce9f6f43bd1c5be6b9d80edceb25.js",
+    "service-worker.js": "/surprise-toy-reality/service-worker.js",
+    "static/css/main.2680dfa7.chunk.css.map": "/surprise-toy-reality/static/css/main.2680dfa7.chunk.css.map",
+    "static/media/buckley.jpg": "/surprise-toy-reality/static/media/buckley.803b47ee.jpg",
+    "static/media/critters.jpg": "/surprise-toy-reality/static/media/critters.1af47343.jpg",
+    "static/media/hopscotch.jpg": "/surprise-toy-reality/static/media/hopscotch.8912e0a6.jpg",
+    "static/media/logo.svg": "/surprise-toy-reality/static/media/logo.25bf045c.svg",
+    "static/media/mystery.jpg": "/surprise-toy-reality/static/media/mystery.c529d8bf.jpg",
+    "static/media/outback.jpg": "/surprise-toy-reality/static/media/outback.eb2a0a81.jpg",
+    "static/media/packet.jpg": "/surprise-toy-reality/static/media/packet.ebccb153.jpg",
+    "static/media/polar.jpg": "/surprise-toy-reality/static/media/polar.0bf85a37.jpg",
+    "static/media/silk.jpg": "/surprise-toy-reality/static/media/silk.699d76fe.jpg",
+    "static/media/sweetpea.jpg": "/surprise-toy-reality/static/media/sweetpea.0d6ebe97.jpg",
+    "static/media/tuxedo.jpg": "/surprise-toy-reality/static/media/tuxedo.a5e8501b.jpg",
+    "static/media/wilder.jpg": "/surprise-toy-reality/static/media/wilder.e80e7202.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a4eec85f.js",
+    "static/js/2.2ee3a94b.chunk.js",
+    "static/css/main.2680dfa7.chunk.css",
+    "static/js/main.103ddd4b.chunk.js"
+  ]
+}

@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/surprise-toy-reality/precache-manifest.13a069ad4887fd726280c2551d0d3630.js"
+  "/surprise-toy-reality/precache-manifest.88f62c3b6baf62cd982c5254528d57a2.js"
 );
 
 self.addEventListener('message', (event) => {

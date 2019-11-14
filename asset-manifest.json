@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/surprise-toy-reality/static/css/main.2680dfa7.chunk.css",
-    "main.js": "/surprise-toy-reality/static/js/main.5447a141.chunk.js",
-    "main.js.map": "/surprise-toy-reality/static/js/main.5447a141.chunk.js.map",
+    "main.js": "/surprise-toy-reality/static/js/main.885ad0ff.chunk.js",
+    "main.js.map": "/surprise-toy-reality/static/js/main.885ad0ff.chunk.js.map",
     "runtime-main.js": "/surprise-toy-reality/static/js/runtime-main.a4eec85f.js",
     "runtime-main.js.map": "/surprise-toy-reality/static/js/runtime-main.a4eec85f.js.map",
-    "static/js/2.9e5a26b4.chunk.js": "/surprise-toy-reality/static/js/2.9e5a26b4.chunk.js",
-    "static/js/2.9e5a26b4.chunk.js.map": "/surprise-toy-reality/static/js/2.9e5a26b4.chunk.js.map",
+    "static/js/2.18b12858.chunk.js": "/surprise-toy-reality/static/js/2.18b12858.chunk.js",
+    "static/js/2.18b12858.chunk.js.map": "/surprise-toy-reality/static/js/2.18b12858.chunk.js.map",
     "index.html": "/surprise-toy-reality/index.html",
-    "precache-manifest.13a069ad4887fd726280c2551d0d3630.js": "/surprise-toy-reality/precache-manifest.13a069ad4887fd726280c2551d0d3630.js",
+    "precache-manifest.88f62c3b6baf62cd982c5254528d57a2.js": "/surprise-toy-reality/precache-manifest.88f62c3b6baf62cd982c5254528d57a2.js",
     "service-worker.js": "/surprise-toy-reality/service-worker.js",
     "static/css/main.2680dfa7.chunk.css.map": "/surprise-toy-reality/static/css/main.2680dfa7.chunk.css.map",
     "static/media/buckley.jpg": "/surprise-toy-reality/static/media/buckley.803b47ee.jpg",
@@ -26,8 +26,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.a4eec85f.js",
-    "static/js/2.9e5a26b4.chunk.js",
+    "static/js/2.18b12858.chunk.js",
     "static/css/main.2680dfa7.chunk.css",
-    "static/js/main.5447a141.chunk.js"
+    "static/js/main.885ad0ff.chunk.js"
   ]
 }

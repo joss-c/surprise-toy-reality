@@ -28,9 +28,9 @@ function App() {
   const handleClick = () => createCritter(prevState => [...prevState, selectCritter()])
   return (
     <div className="App">
-      <div style={{ padding: '1rem' }}>
+      <div style={{ padding: '1rem', display: 'flex', flexWrap: 'wrap' }}>
         {critters.map(critter => {
-          return <img style={{ width: '2rem' }} src={require(`./img/${names[critter]}.jpg`)}></img>
+          return ( <img style={{ height: '3rem' }} src={require(`./img/${names[critter]}.jpg`)}></img> )
         })}
       </div>
       <div
